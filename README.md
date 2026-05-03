@@ -31,7 +31,7 @@ $${\color{lightblue}"Two Skeletons"{}}$$
 
 <p align="center">
   <b> ​​ɢɪᴛʜᴜʙ ᴄʀᴇᴅɪᴛꜱ ᴛᴏ <br>
-  <a href= "https://github.com/zayvorlux"> ᴢᴀʏᴠᴏʀʟᴜx (ʀᴏᴛ) </a>
+  <a href= "https://github.com/zayvorlux"> ᴢᴀʏᴠᴏʀʟᴜx (ꜱᴋᴇᴛᴄʜ) </a>
 
 <p align="center">
   <b> ʟɪɴᴋ(ꜱ) <br>
